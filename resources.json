@@ -1,0 +1,134 @@
+{
+  "title": "Freebies Directory for Healthcare Workers",
+  "credit": "Asdale Dynamics, LLC",
+  "updated": "2026-11-01",
+  "note": "Official links only. Education and support resources; never medical advice.",
+  "categories": [
+    { "key": "ce", "label": "Continuing Education (CE)" },
+    { "key": "scholarship", "label": "Scholarships & Grants" },
+    { "key": "printable", "label": "Printables & Handouts" },
+    { "key": "support", "label": "Support & Crisis Lines" }
+  ],
+  "resources": [
+    {
+      "id": "cdc-train",
+      "title": "CDC TRAIN / CDC Learning Lab",
+      "description": "Free continuing education courses for healthcare professionals from the Centers for Disease Control and Prevention. Topics include infection control, emergency preparedness, and public health practice.",
+      "url": "https://www.cdc.gov/training/",
+      "category": "ce",
+      "audience": "All healthcare workers",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "openwho",
+      "title": "OpenWHO",
+      "description": "Free online courses from the World Health Organization for health workers and responders, including outbreak response, infection prevention, and clinical care.",
+      "url": "https://openwho.org",
+      "category": "ce",
+      "audience": "All healthcare workers",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "ana-free-ce",
+      "title": "American Nurses Association (ANA) Free CE",
+      "description": "Free continuing education webinars and courses for nurses. Some offerings are ANA-member benefits; others are open to all nurses.",
+      "url": "https://www.nursingworld.org",
+      "category": "ce",
+      "audience": "Nurses",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "hrsa-nurse-corps",
+      "title": "HRSA Nurse Corps Scholarship Program",
+      "description": "Scholarships for nursing students in exchange for service at a critical shortage facility, plus loan repayment for eligible nurses.",
+      "url": "https://www.hrsa.gov/nurse-corps",
+      "category": "scholarship",
+      "audience": "Nursing students and nurses",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "ana-foundation",
+      "title": "ANA Foundation Scholarships and Grants",
+      "description": "Scholarships, research grants, and awards for nurses advancing their education or practice through the American Nurses Foundation.",
+      "url": "https://www.nursingworld.org/the-foundation/",
+      "category": "scholarship",
+      "audience": "Nurses",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "cdc-printables",
+      "title": "CDC Printable Resources",
+      "description": "Free printable fact sheets, posters, and handouts for healthcare settings, covering infection control, immunizations, and workplace health.",
+      "url": "https://www.cdc.gov/",
+      "category": "printable",
+      "audience": "All healthcare workers",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "medlineplus-printables",
+      "title": "MedlinePlus Printable Handouts",
+      "description": "Free printable health handouts and easy-to-read materials from the National Library of Medicine for patient education and staff reference.",
+      "url": "https://medlineplus.gov/",
+      "category": "printable",
+      "audience": "All healthcare workers",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "988-lifeline",
+      "title": "988 Suicide & Crisis Lifeline",
+      "description": "Free, confidential 24/7 support for anyone in emotional distress or crisis, including healthcare workers. Call or text 988.",
+      "url": "https://988lifeline.org",
+      "category": "support",
+      "audience": "Anyone in crisis",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "samhsa-helpline",
+      "title": "SAMHSA National Helpline",
+      "description": "Free, confidential 24/7 treatment referral and information line for mental health and substance use concerns. Call 1-800-662-HELP (4357).",
+      "url": "https://www.samhsa.gov/find-help/national-helpline",
+      "category": "support",
+      "audience": "Anyone seeking help",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "emotional-ppe",
+      "title": "Emotional PPE Project",
+      "description": "Connects healthcare workers with free, confidential mental health support from licensed providers. No insurance required.",
+      "url": "https://www.emotionalppe.org/",
+      "category": "support",
+      "audience": "Healthcare workers",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "niosh-topics",
+      "title": "NIOSH Safety and Health Topics",
+      "description": "Free workplace safety and health resources for healthcare workers from the National Institute for Occupational Safety and Health, including safe patient handling and stress prevention.",
+      "url": "https://www.cdc.gov/niosh/",
+      "category": "support",
+      "audience": "All healthcare workers",
+      "cost": "Free",
+      "official": true
+    },
+    {
+      "id": "medlineplus",
+      "title": "MedlinePlus",
+      "description": "Free, reliable health information for patients and professionals from the National Library of Medicine, useful for staff education and patient handouts.",
+      "url": "https://medlineplus.gov/",
+      "category": "printable",
+      "audience": "All healthcare workers",
+      "cost": "Free",
+      "official": true
+    }
+  ]
+}
