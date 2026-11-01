@@ -119,16 +119,6 @@
       "audience": "All healthcare workers",
       "cost": "Free",
       "official": true
-    },
-    {
-      "id": "medlineplus",
-      "title": "MedlinePlus",
-      "description": "Free, reliable health information for patients and professionals from the National Library of Medicine, useful for staff education and patient handouts.",
-      "url": "https://medlineplus.gov/",
-      "category": "printable",
-      "audience": "All healthcare workers",
-      "cost": "Free",
-      "official": true
     }
   ]
 }
